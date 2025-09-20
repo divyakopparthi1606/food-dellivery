@@ -1,2 +1,2 @@
-# food-dellivery
+# food-delivery
 devops
